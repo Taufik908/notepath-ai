@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+
+# Environment / Secret
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# VS Code / PyCharm
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Testing / cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Migrations cache
+**/__pycache__/
+
+# Node 
+node_modules/
