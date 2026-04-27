@@ -1,14 +1,28 @@
-Nama project: NotePath AI
+# NotePath AI
 
-Deskripsi singkat aplikasi web akademik berbasis Python Django, API, dan AI
+Aplikasi web akademik berbasis **Python Django**, **API**, dan **AI** untuk membantu mahasiswa mengelola tugas, jadwal, dan produktivitas secara online.
 
-Fitur utama: manajemen tugas, jadwal akademik, AI assistant, reminder, login akun
+## Fitur Utama
+- Manajemen tugas dan deadline
+- Jadwal akademik online
+- AI Assistant mahasiswa
+- Notifikasi dan reminder
+- Login dan manajemen akun
 
-Tim pengembang dan anggota:
-Anggota: Jeffry Nabil Akbar / 2411102441033
-Anggota: Syaiful Ridho / 2411102441061
-Anggota: Abi Zakaria Sunandar / 2411102441030
-Anggota: Taufiq Kurrahman / 2411102441168
-Anggota: Adnan Maulana Apriansyah / 2311102441115
+## Teknologi
+- Backend: Python Django
+- Frontend: HTML, CSS, JavaScript, Bootstrap/Tailwind
+- Database: MySQL / PostgreSQL / SQLite
+- API: REST API
+- AI: OpenAI API / token AI dari dosen
 
-Status project: masih tahap proposal / pengembangan awal
+## Tim
+**Kelompok 18**
+- Jeffry Nabil Akbar
+- Syaiful Ridho
+- Abi Zakaria Sunandar
+- Taufiq Kurrahman
+- Adnan Maulana Apriansyah
+
+## Status
+Project ini masih dalam tahap **proposal dan pengembangan awal** untuk UAS Praktikum.
